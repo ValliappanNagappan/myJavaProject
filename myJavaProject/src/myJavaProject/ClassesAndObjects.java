@@ -7,7 +7,7 @@ class Person {
 
 	void speak() {
 
-		System.out.println("Hi" + " " + name);
+		System.out.println("Hi There" + " " + name);
 	}
 
 	void hello() {
