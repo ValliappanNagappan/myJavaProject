@@ -10,7 +10,7 @@ public class OutputArgs {
 			System.out.println(test[i]);
 			/*
 			 * When some arguments are passed from command line, they will be received in
-			 * args 'args' is just a name and it is a standard. But it can be anything.
+			 * args. 'args' is just a name and it is a standard. But it can be anything.
 			 */
 		}
 	}
